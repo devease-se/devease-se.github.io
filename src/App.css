@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Karmatic Arcade;
+  src: url(./assets/fonts/karmatic_arcade/ka1.ttf);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1#logo {
+  user-select: none;
+  font-size: 56px;
+  font-family: Karmatic Arcade;
+  color: #fff;
+  text-shadow: 1px 1px 10px #387297;
+}
